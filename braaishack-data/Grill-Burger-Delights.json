@@ -1,0 +1,167 @@
+{
+    "Grill & Burger Delights": {
+      "Burgers": [
+        {
+          "name": "Braaishack",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Braaishack.jpg",
+          "description": "Tasty Signature burger.",
+          "price": 11.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Chicken Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/chicken-burger.webp",
+          "description": "Juicy chicken burger.",
+          "price": 10.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Buffalo Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Buffalo Burger.jpeg",
+          "description": "Savory buffalo burger.",
+          "price": 13.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Ostrich Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Ostrich Burger.jpg",
+          "description": "Delicious ostrich burger.",
+          "price": 14.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Crocodile Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Crocodile Burger.jpeg",
+          "description": "Exotic crocodile burger.",
+          "price": 15.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Zebra Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Zebra Burger.jpg",
+          "description": "Unique zebra burger.",
+          "price": 15.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Wild Boar Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Wild Boar Burger.jpeg",
+          "description": "Flavorful wild boar burger.",
+          "price": 13.95,
+          "category": "Burger"
+        },
+        {
+          "name": "Venison Burger",
+          "image": "./braaishack-assets/Grills & Burgers/burger/Venison Burger.jpeg",
+          "description": "Tasty venison burger.",
+          "price": 11.95,
+          "category": "Burger"
+        }
+      ],
+      "Steaks": [
+        {
+          "name": "Ostrich 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Ostrich Roz.jpeg",
+          "description": "Tender ostrich steak.",
+          "price": 26.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Venison 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Venison Roz.jpeg",
+          "description": "Juicy venison steak.",
+          "price": 24.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Wild Boar 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Wild Boar.jpeg",
+          "description": "Savory wild boar steak.",
+          "price": 24.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Buffalo 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Buffalo Boz.jpeg",
+          "description": "Hearty buffalo steak.",
+          "price": 24.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Zebra 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Zebra.jpeg",
+          "description": "Distinctive zebra steak.",
+          "price": 26.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Crocodile 8 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Crocodile Boz.jpeg",
+          "description": "Exotic crocodile steak.",
+          "price": 28.95,
+          "category": "Steak"
+        },
+        {
+          "name": "2 Exotics 16 OZ",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/2 Exotics.jpg",
+          "description": "Choose any two exotic steaks.",
+          "price": 44.95,
+          "category": "Steak"
+        },
+        {
+          "name": "T-Bone 300z",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/T-Bone 300z.jpg",
+          "description": "Juicy T-bone steak.",
+          "price": 38.00,
+          "category": "Steak"
+        },
+        {
+          "name": "Ribeye 100z",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Ribeye 100z.jpg",
+          "description": "Succulent ribeye steak.",
+          "price": 22.95,
+          "category": "Steak"
+        },
+        {
+          "name": "Sirloin 10 oz",
+          "image": "./braaishack-assets/Grills & Burgers/steaks/Sirloin 10 oz.jpeg",
+          "description": "Tender sirloin steak.",
+          "price": 21.95,
+          "category": "Steak"
+        }
+      ],
+      "Hot Rock Grill": [
+        {
+          "name": "Hot Rock Grill",
+          "image": "./braaishack-assets/Grills & Burgers/Hot Rock grill/Hot Rock Grill.jpg",
+          "description": "Interactive dining with preheated lava rock.",
+          "price": 3.00,
+          "category": "Hot Rock Grill"
+        }
+      ],
+      "Grills": [
+        {
+          "name": "Bushman",
+          "image": "./braaishack-assets/Grills & Burgers/Grills/Bushman.jpeg",
+          "description": "Ostrich, buffalo, zebra, venison, and two wild boar sausages.",
+          "price": 57.95,
+          "category": "Grill"
+        },
+        {
+          "name": "Zulu",
+          "image": "./braaishack-assets/Grills & Burgers/Grills/Zulu.jpg",
+          "description": "Rump steak, boerewors sausage, lamb cutlets, peri peri chicken wings, and pork ribs.",
+          "price": 32.00,
+          "category": "Grill"
+        },
+        {
+          "name": "Ultimate Pork Ribs",
+          "image": "./braaishack-assets/Grills & Burgers/Grills/Ultimate Pork Rib.jpg",
+          "description": "Our biggest ever full rack of ribs, smothered in a 'sweet and smoky' glaze.",
+          "price": 28.95,
+          "category": "Grill"
+        }
+      ]
+    }
+  }
+  

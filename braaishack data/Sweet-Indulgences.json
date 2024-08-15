@@ -1,0 +1,137 @@
+
+{
+    "Sweet Indulgences": {
+    "desserts": [
+      {
+        "name": "Vanilla Ice Cream",
+        "description": "Choice Of Chocolate, Strawberry, Toffee Sauce Topped With Whipped Cream.",
+        "image":"./braaishack-assets/Sweet-Indulgences/desserts/Vanilla-Ice-Cream.jpg",
+        "price": 3.93,
+        "category": "Dessert"
+      },
+      {
+        "name": "Chocolate Secret",
+        "description": "Warm Chocolate Tray Cake Served with Whipped Cream.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Chocolate Secret.jpg",
+        "price": 5.93,
+        "category": "Dessert"
+      },
+      {
+        "name": "Koek Sisters",
+        "description": "Traditional Afrikaner Confectionery Made Of Fried Dough Infused With Syrup Served With Whipped Cream Or Ice Cream. Hot Or Cold.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Koek Sisters.jpg",
+        "price": 5.50,
+        "category": "Dessert"
+      },
+      {
+        "name": "Strawberry & Marshmallow Fondue",
+        "description": "Served With Warm Chocolate And Whipped Cream.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Strawberry & Marshmallow Fondue.jpeg",
+        "price": 4.50,
+        "category": "Dessert"
+      },
+      {
+        "name": "Milk Tart",
+        "description": "Cinnamon-Dusted Custard Tart.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Milk Tart.jpg",
+        "price": 4.65,
+        "category": "Dessert"
+      },
+      {
+        "name": "Peppermint Tart",
+        "description": "Layered Caramel, Biscuit And Chocolate.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Peppermint Tart.jpeg",
+        "price": 4.65,
+        "category": "Dessert"
+      },
+      {
+        "name": "Malva Pudding",
+        "description": "Caramelised Sweet, Spongy Pudding Served With Custard.",
+        "image": "./braaishack-assets/Sweet-Indulgences/desserts/Malva Pudding.jpg",
+        "price": 5.85,
+        "category": "Dessert"
+      }
+    ],
+    "milkshakes": [
+      {
+        "name": "Nutella",
+        "description": "Delicious milkshake flavored with Nutella, offering a rich and creamy taste.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/Nutella.jpg",
+        "price": 4.60,
+        "category": "Milkshake"
+      },
+      {
+        "name": "Cookies",
+        "description": "Milkshake infused with crushed cookies, blending creamy texture with crunchy bits.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/Cookies.jpeg",
+        "price": 4.60,
+        "category": "Milkshake"
+      },
+      {
+        "name": "Oreo",
+        "description": "Smooth milkshake mixed with Oreo cookies for a classic and satisfying flavor.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/Oreo.jpeg",
+        "price": 4.60,
+        "category": "Milkshake"
+      },
+      {
+        "name": "Maltesers",
+        "description": "Milkshake made with Maltesers, offering a unique malted and creamy experience.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/maltesers.webp",
+        "price": 4.60,
+        "category": "Milkshake"
+      },
+      {
+        "name": "Strawberry",
+        "description": "Classic strawberry milkshake with a fresh and fruity flavor, blended to perfection.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/Strawberry.jpeg",
+        "price": 4.60,
+        "category": "Milkshake"
+      },
+      {
+        "name": "Aero",
+        "description": "Milkshake featuring Aero chocolate, delivering a bubbly and smooth texture.",
+        "image": "./braaishack-assets/Sweet-Indulgences/Milkshakes/Aero_Milkshake.webp",
+        "price": 4.60,
+        "category": "Milkshake"
+      }
+    ],
+    "don_pedro_alcoholic_milkshakes": [
+        {
+          "name": "Amarula Laduma",
+          "description": "Luxurious milkshake with Amarula liqueur, offering a creamy and rich flavor.",
+          "image": "./braaishack-assets/Sweet-Indulgences/Alcoholic Milkshake/Amarula laduma.jpg",
+          "price": 7.65,
+          "category": "Alcoholic Milkshake"
+        },
+        {
+          "name": "Lekka Milk Tart",
+          "description": "Creamy milkshake inspired by the traditional milk tart with a sweet and smooth taste.",
+          "image": "./braaishack-assets/Sweet-Indulgences/Alcoholic Milkshake/Lekka Milk Tart.jpg",
+          "price": 7.65,
+          "category": "Alcoholic Milkshake"
+        },
+        {
+          "name": "Spring Bokkie",
+          "description": "Refreshing milkshake with a bold flavor profile for a unique and invigorating treat.",
+          "image": "./braaishack-assets/Sweet-Indulgences/Alcoholic Milkshake/Spring Bokkie.jpeg",
+          "price": 7.65,
+          "category": "Alcoholic Milkshake"
+        },
+        {
+          "name": "Kahula",
+          "description": "Delicious milkshake with Kahula liqueur, offering a rich and indulgent experience.",
+          "image": "./braaishack-assets/Sweet-Indulgences/Alcoholic Milkshake/Kahula.jpeg",
+          "price": 7.65,
+          "category": "Alcoholic Milkshake"
+        },
+        {
+          "name": "Irish Whisky",
+          "description": "Smooth milkshake blended with Irish whisky for a rich and warming flavor.",
+          "image": "./braaishack-assets/Sweet-Indulgences/Alcoholic Milkshake/Irish Whisky.jpeg",
+          "price": 7.65,
+          "category": "Alcoholic Milkshake"
+        }
+      ]
+  }
+  }
